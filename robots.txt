@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.bluecreekvillageresort.cyou/sitemap.xml
+Sitemap: https://bluecreekvillageresort.cyou/sitemap.xml
